@@ -11,4 +11,4 @@ Type of Calculator
 - Area of Circle
 - Simple Intrest
 
-! [Four-Calculator's](Calculator.png)
+![Four-Calculator's](Calculator.png)
