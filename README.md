@@ -12,3 +12,5 @@ Type of Calculator
 - Simple Intrest
 
 ![Four-Calculator's](Calculator.png)
+## Wib Site Link 🎉
+[Simple4Calculators](https://simple4calculator.netlify.app/)
